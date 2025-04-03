@@ -14,7 +14,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>MassTransit.EntityFramework</PackageId>
+    <PackageId>PublicTransit.EntityFramework</PackageId>
     <Title>MassTransit.EntityFramework</Title>
     <PackageTags>MassTransit;EF;EntityFramework</PackageTags>
     <Description>MassTransit Entity Framework persistence support; $(Description)</Description>

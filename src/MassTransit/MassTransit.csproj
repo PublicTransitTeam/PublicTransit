@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
+    <PackageId>PublicTransit</PackageId>
     <PackageTags>MassTransit</PackageTags>
     <Description>$(Description)</Description>
   </PropertyGroup>

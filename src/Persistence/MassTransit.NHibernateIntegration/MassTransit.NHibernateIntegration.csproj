@@ -14,7 +14,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>MassTransit.NHibernate</PackageId>
+    <PackageId>PublicTransit.NHibernate</PackageId>
     <Title>MassTransit.NHibernate</Title>
     <PackageTags>MassTransit;NHibernate</PackageTags>
     <Description>MassTransit NHibernate persistence support; $(Description)</Description>

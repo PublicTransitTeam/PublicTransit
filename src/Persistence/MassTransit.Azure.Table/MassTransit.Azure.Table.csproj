@@ -14,7 +14,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>MassTransit.Azure.Cosmos.Table</PackageId>
+    <PackageId>PublicTransit.Azure.Cosmos.Table</PackageId>
     <Title>MassTransit.Azure.Cosmos.Table</Title>
     <PackageTags>MassTransit;Azure;Cosmos;Table</PackageTags>
     <Description>MassTransit Azure Cosmos persistence support; $(Description)</Description>

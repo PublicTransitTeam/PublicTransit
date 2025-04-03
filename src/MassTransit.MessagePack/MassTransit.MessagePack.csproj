@@ -12,7 +12,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>MassTransit.MessagePack</PackageId>
+    <PackageId>PublicTransit.MessagePack</PackageId>
     <Title>MassTransit.MessagePack</Title>
     <PackageTags>MassTransit;MessagePack;MsgPack</PackageTags>
     <Description>MassTransit MessagePack support; $(Description)</Description>

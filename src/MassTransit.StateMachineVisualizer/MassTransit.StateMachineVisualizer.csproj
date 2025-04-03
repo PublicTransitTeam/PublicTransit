@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
+    <PackageId>PublicTransit.StateMachineVisualizer</PackageId>
     <RootNamespace>MassTransit.Visualizer</RootNamespace>
   </PropertyGroup>
 

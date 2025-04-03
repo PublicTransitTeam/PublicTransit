@@ -13,7 +13,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>MassTransit.Redis</PackageId>
+    <PackageId>PublicTransit.Redis</PackageId>
     <Title>MassTransit.Redis</Title>
     <PackageTags>MassTransit;Redis</PackageTags>
     <Description>MassTransit Redis persistence support; $(Description)</Description>

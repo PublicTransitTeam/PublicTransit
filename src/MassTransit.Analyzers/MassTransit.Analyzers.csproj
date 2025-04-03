@@ -6,6 +6,7 @@
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <DevelopmentDependency>true</DevelopmentDependency>
     <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
+    <PackageId>PublicTransit.Analyzers</PackageId>
   </PropertyGroup>
 
   <PropertyGroup>

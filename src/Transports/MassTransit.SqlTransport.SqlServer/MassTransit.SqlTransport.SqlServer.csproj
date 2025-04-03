@@ -11,7 +11,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>MassTransit.SqlTransport.SqlServer</PackageId>
+    <PackageId>PublicTransit.SqlTransport.SqlServer</PackageId>
     <Title>MassTransit.SqlTransport.SQL Server</Title>
     <PackageTags>MassTransit;Database;Transport;SQL Server;Microsoft;Azure;SQL</PackageTags>
     <Description>MassTransit SQL Server Transport; $(Description)</Description>

@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
+    <PackageId>PublicTransit.SignalR</PackageId>
     <PackageTags>MassTransit;SignalR</PackageTags>
     <Description>MassTransit SignalR Backplane support; $(Description)</Description>
   </PropertyGroup>

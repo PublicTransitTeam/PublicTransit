@@ -16,7 +16,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>MassTransit.AmazonS3</PackageId>
+    <PackageId>PublicTransit.AmazonS3</PackageId>
     <Title>MassTransit.AmazonS3</Title>
     <PackageTags>MassTransit;S3;Storage;ServiceBus</PackageTags>
     <Description>MassTransit S3 Storage persistence support; $(Description)</Description>

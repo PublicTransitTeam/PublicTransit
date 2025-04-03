@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
+    <PackageId>PublicTransit.Abstractions</PackageId>
     <RootNamespace>MassTransit</RootNamespace>
     <Nullable>enable</Nullable>
   </PropertyGroup>

@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>MassTransit.Marten</PackageId>
+    <PackageId>PublicTransit.Marten</PackageId>
     <Title>MassTransit.Marten</Title>
     <PackageTags>MassTransit;Marten</PackageTags>
     <Description>MassTransit Marten persistence support; $(Description)</Description>

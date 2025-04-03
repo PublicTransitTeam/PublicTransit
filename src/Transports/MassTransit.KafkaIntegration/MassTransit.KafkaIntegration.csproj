@@ -15,7 +15,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>MassTransit.Kafka</PackageId>
+    <PackageId>PublicTransit.Kafka</PackageId>
     <Title>MassTransit.Kafka</Title>
     <PackageTags>MassTransit;Kakfa</PackageTags>
     <Description>MassTransit Kafka Support; $(Description)</Description>

@@ -14,7 +14,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>MassTransit.RabbitMQ</PackageId>
+    <PackageId>PublicTransit.RabbitMQ</PackageId>
     <Title>MassTransit.RabbitMQ</Title>
     <PackageTags>MassTransit;RabbitMQ</PackageTags>
     <Description>MassTransit RabbitMQ transport support; $(Description)</Description>

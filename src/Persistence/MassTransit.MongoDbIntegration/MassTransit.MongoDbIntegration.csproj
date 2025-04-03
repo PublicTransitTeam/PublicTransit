@@ -14,7 +14,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>MassTransit.MongoDb</PackageId>
+    <PackageId>PublicTransit.MongoDb</PackageId>
     <Title>MassTransit.MongoDb</Title>
     <PackageTags>MassTransit;MongoDb</PackageTags>
     <Description>MassTransit MongoDb persistence support; $(Description)</Description>

@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
+    <PackageId>PublicTransit.TestFramework</PackageId>
     <PackageTags>MassTransit;NUnit</PackageTags>
     <Description>MassTransit Test Framework (NUnit); $(Description)</Description>
   </PropertyGroup>
